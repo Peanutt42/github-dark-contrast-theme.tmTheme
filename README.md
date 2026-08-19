@@ -1,7 +1,13 @@
-# github-dark-contrast-theme.tmTheme
+# GitHub Dark Contrast tmTheme
 
 .tmTheme of GitHub Dark Contrast Theme ([github-dark-contrast-theme.nvim](https://github.com/Peanutt42/github-dark-contrast-theme.nvim) neovim theme)
 to be used for bat and delta.
+
+```bash
+bat ./example_code.rs --theme "GitHub Dark Contrast"
+```
+
+![Screenshot](./Screenshot.png)
 
 ## How to install in bat/delta
 
@@ -22,5 +28,11 @@ The theme should then be available as "GitHub Dark Contrast" when running `bat -
 
 <br>
 
-To install the delta "feature" named "github-dark-contrast" that uses this tmTheme, \
-look at [github-dark-contrast-theme.delta](https://github.com/Peanutt42/github-dark-contrast-theme.delta).
+## Also look at:
+
+- delta "feature"(/theme) that uses this .tmTheme: [github-dark-contrast-theme.delta](https://github.com/Peanutt42/github-dark-contrast-theme.delta)
+
+- neovim theme "GitHub Dark Contrast" which this .tmTheme is based on: [github-dark-contrast-theme.nvim](https://github.com/Peanutt42/github-dark-contrast-theme.nvim)
+
+- lazygit theme: [github-dark-contrast-theme.lazygit](https://github.com/Peanutt42/github-dark-contrast-theme.lazygit)
+
